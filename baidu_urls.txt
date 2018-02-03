@@ -1,3 +1,4 @@
+http://zhangcabbage.cn/2018/zhangcabbage-cn-2-0-发布说明.html
 http://zhangcabbage.cn/2018/18年校招面试总结.html
 http://zhangcabbage.cn/2017/阿里校招-梦想是一定要有的，万一实现了呢.html
 http://zhangcabbage.cn/2017/Permutation-字符串的排列.html
@@ -7,4 +8,3 @@ http://zhangcabbage.cn/2017/偶遇mysql-group-concat与find-in-set函数.html
 http://zhangcabbage.cn/2017/sublime插件开发-CabbageFileDiff.html
 http://zhangcabbage.cn/2017/Majority-Number-出现次数超过数组长度1-n的数字.html
 http://zhangcabbage.cn/2017/Guava源码分析-1-ComparisonChain.html
-http://zhangcabbage.cn/2017/书评-三-：大型网站技术架构-核心原理与案例分析.html
